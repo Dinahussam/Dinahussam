@@ -9,4 +9,4 @@ I aspire to be a data scientist.
 
 # 💻 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,tensorflow,qt,html,css,js,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,tensorflow,qt,html,css,js,flask,mysql,arduino)](https://skillicons.dev)
