@@ -10,3 +10,5 @@ I aspire to be a data scientist.
 # 💻 Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,tensorflow,qt,html,css,js,flask,mysql,arduino)](https://skillicons.dev)
+
+![Snake animation](https://github.com/Dinahussam/Dinahussam/blob/output/github-contribution-grid-snake.svg)
