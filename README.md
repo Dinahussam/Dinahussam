@@ -53,6 +53,8 @@ If you want to reach out to me about anything, just send me😃.
       <a href="https://scikit-learn.org/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="48px" width="48"/> </a> 
       <br>scikit-learn
     </td>
+   </tr>
+   <tr>
     <td align="center" width="105">
       <a href="https://www.qt.io/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" height="48px" width="48"/> </a> 
       <br>Qt
@@ -61,8 +63,6 @@ If you want to reach out to me about anything, just send me😃.
       <a href="https://www.w3.org/html/" target="_blank"> <img align="center" alt="html5" height ="48px" width="48"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> </a>
       <br>HTML
     </td>
-  </tr>
-  <tr>
     <td align="center" width="105"> 
       <a href="https://www.w3schools.com/css/" target="_blank"> <img align="center" alt="css" height ="48px" width="48"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </a>
       <br>CSS
