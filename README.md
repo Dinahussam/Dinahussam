@@ -94,11 +94,10 @@ If you want to reach out to me about anything, just send me😃.
 # 📊 Github Stats:
 [![Dinahussam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dinahussam&theme=dracula)](https://github.com/Dinahussam/github-readme-activity-graph)
 <br>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinahussam&show_icons=true&theme=tokyonight)
-<br>
-<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dinahussam&theme=tokyonight)](https://git.io/streak-stats)
+<br>
+<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinahussam&show_icons=true&theme=tokyonight)
 <br>
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinahussam&theme=tokyonight)
