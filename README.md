@@ -94,14 +94,17 @@ If you want to reach out to me about anything, just send me😃.
 # 📊 Github Stats:
 [![Dinahussam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dinahussam&theme=dracula)](https://github.com/Dinahussam/github-readme-activity-graph)
 <br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinahussam&show_icons=true&theme=tokyonight)
+<br>
 <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dinahussam&theme=tokyonight)](https://git.io/streak-stats)
 <br>
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinahussam&theme=tokyonight)
- 
+<div align="center" >
 <img src="https://github-profile-trophy.vercel.app/?username=Dinahussam&theme=tokyonight&margin-w=15" />
-
+<div>
  
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
