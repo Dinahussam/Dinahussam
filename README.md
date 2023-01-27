@@ -14,13 +14,13 @@ I aspire to be a data scientist.
 If you want to reach out to me about anything, just send me😃.
 <div align="center">
  <a href="dinahassem9@gmail.com">
-  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" /> </a>
+ <img align="center" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" /> </a>
 
-  <a href="linkedin.com/in/dina-hussam-aa0697234">
-   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
- </div>
- <br>
- <br>
+ <a href="linkedin.com/in/dina-hussam-aa0697234">
+ <img align="center" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</div>
+<br>
+<br>
 
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Languages and Tools:
  
