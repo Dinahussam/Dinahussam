@@ -92,11 +92,11 @@ If you want to reach out to me about anything, just send me😃.
 <br>
 
 # 📊 Github Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinahussam&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinahussam&show_icons=true&theme=transparent)
 <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dinahussam&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dinahussam&theme=transparent)](https://git.io/streak-stats)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinahussam&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinahussam&theme=transparent)
  
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
