@@ -22,102 +22,74 @@ If you want to reach out to me about anything, just send me😃.
  <br>
 
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+ 
+ <table>
+  <tr>
+    <td align="center" width="105">
+      <a href="https://www.python.org" target="_blank"><img align="center" alt="Python" height ="48px" width="48" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+      <br>Python
+    </td>
+    <td align="center" width="105">
+      <a href="https://www.java.com" target="_blank"><img align="center" alt="Java" height ="48px" width="48" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+      <br>Java
+    </td>
+    <td align="center" width="105">
+      <a href="https://www.w3schools.com/cpp/" target="_blank"><img align="center" alt="cpp" height ="48px" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
+      <br>C++
+    </td>
+    <td align="center" width="105">
+      <a href="https://pytorch.org/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="48px" width="48"/> </a> 
+      <br>Pytorch
+    </td>
+    <td align="center" width="105">
+      <a href="https://www.tensorflow.org" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="48px" width="48"/> </a> 
+      <br>Tensorflow
+    </td>
+    <td align="center" width="105">
+      <a href="https://opencv.org/" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="openCV" height="48px" width="48"/> </a> 
+      <br>Opencv
+    </td>
+    <td align="center" width="105">
+      <a href="https://scikit-learn.org/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="48px" width="48"/> </a> 
+      <br>scikit-learn
+    </td>
+    <td align="center" width="105">
+      <a href="https://www.qt.io/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" height="48px" width="48"/> </a> 
+      <br>Qt
+    </td>
+    <td align="center" width="105">
+      <a href="https://www.w3.org/html/" target="_blank"> <img align="center" alt="html5" height ="48px" width="48"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> </a>
+      <br>HTML
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="105"> 
+      <a href="https://www.w3schools.com/css/" target="_blank"> <img align="center" alt="css" height ="48px" width="48"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </a>
+      <br>CSS
+    </td>
+    <td align="center" width="105">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="JavaScript" height ="48px" width="48"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+      <br>JavaScript
+    </td>
+    <td align="center"  width="105">
+      <a href="https://flask.palletsprojects.com/" target="_blank"> <img align="center" alt="flask" height ="48px" width="48"  src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"> </a>
+      <br>Flask
+    </td>
+    <td align="center"  width="105">
+      <a href="https://www.mysql.com/" target="_blank"> <img align="center" alt="mysql" height ="48px" width="48"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="105">
+      <a href="https://www.arduino.cc/" target="_blank"> <img align="center" alt="arduino" height ="48px" width="48"  src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"> </a>
+      <br>Arduino
+    </td> 
+  </tr>
+</table>
 
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img align="left" alt="cpp" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
-
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-
-<a href="https://opencv.org/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="openCV" height="42px"/> </a> 
-
-<a href="https://scikit-learn.org/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="42px"/> </a> 
-
-<a href="https://www.qt.io/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" height="42px"/> </a> 
-
-<a href="https://www.w3.org/html/" target="_blank"> <img align="left" alt="html5" height ="42px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> </a>
-
-<a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" alt="css" height ="42px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img align="left" alt="flask" height ="42px"  src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"> </a>
-
-<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="mysql" height ="42px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> </a>
-
-<a href="https://www.arduino.cc/" target="_blank"> <img align="left" alt="arduino" height ="42px"  src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"> </a>
 <br>
 <br>
 
 # 📊 Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinahussam&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinahussam&theme=tokyonight)
-
-
-
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/cpp/" target="_blank"><img align="left" alt="cpp" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
-      <br>c++
-    </td>
-    <td align="center" width="96">
-      <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-      <br>pytorch
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-      <br>tensorflow
-    </td>
-    <td align="center" width="96">
-      <a href="https://opencv.org/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="openCV" height="42px"/> </a> 
-      <br>opencv
-    </td>
-    <td align="center" width="96">
-      <a href="https://scikit-learn.org/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="42px"/> </a> 
-      <br>scikit-learn
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.qt.io/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" height="42px"/> </a> 
-      <br>Qt
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3.org/html/" target="_blank"> <img align="left" alt="html5" height ="42px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> </a>
-      <br>HTML
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" alt="css" height ="42px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-      <br>JavaScript
-    </td>
-    <td align="center"  width="96">
-      <a href="https://flask.palletsprojects.com/" target="_blank"> <img align="left" alt="flask" height ="42px"  src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"> </a>
-      <br>Flask
-    </td>
-    <td align="center"  width="96">
-      <a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="mysql" height ="42px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.arduino.cc/" target="_blank"> <img align="left" alt="arduino" height ="42px"  src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"> </a>
-      <br>Arduino
-    </td> 
-  </tr>
-</table>
