@@ -92,8 +92,6 @@ If you want to reach out to me about anything, just send me😃.
 <br>
 
 # 📊 Github Stats:
-![Snake animation](https://github.com/Dinahussam/Dinahussam/blob/output/github-contribution-grid-snake.svg)
- 
 [![Dinahussam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dinahussam&theme=dracula)](https://github.com/Dinahussam/github-readme-activity-graph)
 <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dinahussam&theme=tokyonight)](https://git.io/streak-stats)
