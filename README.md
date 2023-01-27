@@ -93,7 +93,9 @@ If you want to reach out to me about anything, just send me😃.
 
 # 📊 Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinahussam&show_icons=true&theme=tokyonight)
+<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dinahussam&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinahussam&theme=tokyonight)
  
 
