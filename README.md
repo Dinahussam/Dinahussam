@@ -12,18 +12,19 @@ I aspire to be a data scientist.
 
 # 📞 Contact Me:
 If you want to reach out to me about anything, just send me😃.
+<div align="center">
+ <a href="dinahassem9@gmail.com">
+  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" /> </a>
 
-<a href="dinahassem9@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" /> </a>
- 
- <a href="linkedin.com/in/dina-hussam-aa0697234">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+  <a href="linkedin.com/in/dina-hussam-aa0697234">
+   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+ </div>
  <br>
  <br>
 
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Languages and Tools:
  
- <table>
+ <table align="center">
   <tr>
     <td align="center" width="105">
       <a href="https://www.python.org" target="_blank"><img align="center" alt="Python" height ="48px" width="48" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
