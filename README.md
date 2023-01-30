@@ -105,5 +105,11 @@ If you want to reach out to me about anything, just send me😃.
 <img src="https://github-profile-trophy.vercel.app/?username=Dinahussam&theme=tokyonight&margin-w=15" />
 <div>
  
+<br>
+ 
+#### Profile Views
+ 
+![GitHub Views](https://profile-counter.glitch.me/Dinahussam/count.svg)
+
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
