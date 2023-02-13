@@ -109,6 +109,9 @@ If you want to reach out to me about anything, just send me😃.
 [![Dinahussam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dinahussam&theme=dracula)](https://github.com/Dinahussam/github-readme-activity-graph)
 <br>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinahussam&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dinahussam&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dinahussam&theme=dracula&utcOffset=8)
 <p align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinahussam&theme=tokyonight">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dinahussam&theme=tokyonight">
