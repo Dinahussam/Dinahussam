@@ -109,17 +109,23 @@ If you want to reach out to me about anything, just send me😃.
 [![Dinahussam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dinahussam&theme=dracula)](https://github.com/Dinahussam/github-readme-activity-graph)
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinahussam&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dinahussam&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dinahussam&theme=dracula&utcOffset=8)
-<p align="center">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinahussam&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dinahussam&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dinahussam&theme=radical&utcOffset=8)
+   
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinahussam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Dinahussam&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinahussam&exclude_repo=statistics-cc-hypothesis-testing,stm32f401-429xx-projects,STM32F401CC,STM32F4xx-DMA,sound-equalizer&hide=html,jupyter%20notebook&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <p align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinahussam&theme=tokyonight">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dinahussam&theme=tokyonight">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dinahussam&theme=tokyonight&utcOffset=8">
  <img src="http://github-readme-streak-stats.herokuapp.com?user=Dinahussam&theme=tokyonight">
  <img src="https://github-readme-stats.vercel.app/api?username=Dinahussam&show_icons=true&theme=tokyonight">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinahussam&theme=tokyonight">
-</p>
+</p> -->
  
 <br>
 
