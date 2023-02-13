@@ -25,7 +25,7 @@ A 3rd-year biomedical engineering student at faculty of engineering Cairo univer
 I'm interested in Data Science & Cancer treatment Research so I'm spending almost all my time learning more and more to try to find a treatment for Cancer through AI & Biomedical engineering.<br>
 I aspire to be a data scientist.
 
-# 📞 Contact Me:
+# <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Contact Me:
 If you want to reach out to me about anything, just send me😃.
 <div align="center">
  <a href="mailto:dinahassem9@gmail.com">
@@ -109,17 +109,18 @@ If you want to reach out to me about anything, just send me😃.
 # 📊 Github Stats:
 [![Dinahussam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dinahussam&theme=dracula)](https://github.com/Dinahussam/github-readme-activity-graph)
 <br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinahussam&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dinahussam&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dinahussam&theme=dracula&utcOffset=8)
+
+<p align="center">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinahussam&theme=tokyonight">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dinahussam&theme=tokyonight">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dinahussam&theme=tokyonight&utcOffset=8">
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=Dinahussam&theme=tokyonight">
+ <img src="https://github-readme-stats.vercel.app/api?username=Dinahussam&show_icons=true&theme=tokyonight">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinahussam&theme=tokyonight">
+</p>
+ 
 <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dinahussam&theme=tokyonight)](https://git.io/streak-stats)
-<br>
-<br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinahussam&show_icons=true&theme=tokyonight)
-<br>
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinahussam&theme=tokyonight)
+
 <div align="center" >
 <img src="https://github-profile-trophy.vercel.app/?username=Dinahussam&theme=tokyonight&margin-w=15" />
 <div>
@@ -132,3 +133,7 @@ If you want to reach out to me about anything, just send me😃.
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+ 
+ <p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
