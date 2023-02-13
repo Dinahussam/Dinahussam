@@ -2,7 +2,22 @@
 
 <p align="center">
 <img  src="https://user-images.githubusercontent.com/81252117/211005104-2cc07f64-dba7-4e8e-8c98-518e3706b942.gif" width="250" height="200" />
+<br>
+<img  src="https://readme-typing-svg.herokuapp.com?font=Times&size=100&color=207195&center=true&width=1500&height=400&lines=Welcome+to+my+GitHub+profile" width="550" height="100" />
 </p>
+
+
+ # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Who am I?
+ ```Python
+aboutMe = {
+    "name": "Dina Hussam",
+    "age": 21,
+    "home": "Cairo, Egypt",
+    "education": "Junior Biomedical Engineering at Cairo University",
+    "languages": ["Arabic", "English", "German"],
+    "hobbies": ["Graphic design", "Chess", "Learning languages", "Travel"]
+}
+```
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me: 
 
@@ -16,13 +31,13 @@ If you want to reach out to me about anything, just send me😃.
  <a href="dinahassem9@gmail.com">
  <img align="center" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" /> </a>
 
- <a href="linkedin.com/in/dina-hussam-aa0697234">
+ <a href="https://eg.linkedin.com/in/dina-hussam-aa0697234">
  <img align="center" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </div>
 <br>
 <br>
 
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Languages and Tools:
+# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:
  
  <table align="center">
   <tr>
@@ -93,6 +108,10 @@ If you want to reach out to me about anything, just send me😃.
 
 # 📊 Github Stats:
 [![Dinahussam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dinahussam&theme=dracula)](https://github.com/Dinahussam/github-readme-activity-graph)
+<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinahussam&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dinahussam&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dinahussam&theme=dracula&utcOffset=8)
 <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dinahussam&theme=tokyonight)](https://git.io/streak-stats)
 <br>
