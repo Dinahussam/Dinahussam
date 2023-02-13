@@ -7,7 +7,7 @@
 </p>
 
 
- # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Who am I?
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Who am I?
  ```Python
 aboutMe = {
     "name": "Dina Hussam",
@@ -28,7 +28,7 @@ I aspire to be a data scientist.
 # 📞 Contact Me:
 If you want to reach out to me about anything, just send me😃.
 <div align="center">
- <a href="dinahassem9@gmail.com">
+ <a href="mailto:dinahassem9@gmail.com">
  <img align="center" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" /> </a>
 
  <a href="https://eg.linkedin.com/in/dina-hussam-aa0697234">
