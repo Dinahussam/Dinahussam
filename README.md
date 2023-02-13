@@ -102,7 +102,6 @@ If you want to reach out to me about anything, just send me😃.
   </tr>
 </table>
 
-
 <br>
 <br>
 
