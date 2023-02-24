@@ -13,7 +13,7 @@ aboutMe = {
    "name": "Dina Hussam",
    "age": 21,
    "home": "Cairo, Egypt",
-   "education": "Junior Biomedical Engineering at Cairo University",
+   "education": "Senior1 Biomedical Engineering at Cairo University",
    "languages": ["Arabic", "English", "German"],
    "hobbies": ["Graphic design", "Chess", "Learning languages", "Travel"]
 }
