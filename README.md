@@ -106,7 +106,7 @@ If you want to reach out to me about anything, just send me😃.
 <br>
 
 # <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 55px> Github Stats:
-[![Dina Hussam github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dinahussam&bg_color=black&color=FFFFFF&line=10B1E6&point=FF3757&area=true&hide_border=true)](https://github.com/Dinahussam/github-readme-activity-graph)
+[![Dina Hussam github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dinahussam&bg_color=000000&color=FFFFFF&line=10B1E6&point=FF3757&area=true&hide)](https://github.com/Dinahussam/github-readme-activity-graph)
 <br> 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinahussam&theme=radical)
