@@ -134,7 +134,7 @@ If you want to reach out to me about anything, just send me😃.
 <div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dinahussam&theme=radical&column=7)](https://github.com/Naderab/github-profile-trophy)
-
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Dinahussam)](https://github.com/Dinahussam/github-profile-trophy) -->
 <br>
  
 #### Profile Views
