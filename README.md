@@ -133,7 +133,6 @@ If you want to reach out to me about anything, just send me😃.
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=Dinahussam&theme=tokyonight&margin-w=15" /> -->
 <div>
    
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dinahussam&theme=radical&column=7)](https://github.com/Naderab/github-profile-trophy)
    
 <br>
  
